@@ -13,7 +13,7 @@
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.lojii.nio.2022</string>
+		<string>group.com.xuefer.kenio</string>
 	</array>
 </dict>
 </plist>
